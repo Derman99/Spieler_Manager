@@ -2,7 +2,7 @@
 
 ## Motivation: 
 
-Die Idee für unser Projekt entstand aus unserer gemeinsamen Begeisterung für Fußball – insbesondere im Kontext der Champions League, die während des Projektzeitraums stattfand. Uns war es wichtig, ein praxisnahes Thema zu wählen, mit dem wir uns identifizieren können und das gleichzeitig Spaß bei der Umsetzung bringt.
+Die Idee für unser Projekt entstand aus unserer gemeinsamen Begeisterung für Fußball, insbesondere im Kontext der Champions League, die während des Projektzeitraums stattfand. Uns war es wichtig, ein praxisnahes Thema zu wählen, mit dem wir uns identifizieren können und das gleichzeitig Spaß bei der Umsetzung bringt.
 
 
 
